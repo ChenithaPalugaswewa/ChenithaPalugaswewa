@@ -3,18 +3,21 @@
 #### Beginner Roblox Developer • AI Enthusiast • Learning Through Projects
 
 Welcome to my GitHub!  
-I’m still learning game development, scripting, and AI systems — but I enjoy experimenting, building tools, and improving with every project.
+I’m still learning website/app development, scripting, and AI systems — but I enjoy experimenting, building tools, and improving with every project.
 
 ---
 
 ## 👤 About Me — **Chenitha Palugaswewa**
-I created **QuantumLeap Studios .Inc** as a place to explore:
+I created **QuantumLeap Studios .Inc** % **STRATA** 
+
+I wanted to explore:
 
 - Roblox development (still improving!)
 - Simple AI concepts  
 - Simulation experiments  
 - Performance testing  
-- Small automated systems  
+- Small automated systems
+- And tools to make everyday work easier!
 
 I’m focused on learning step-by-step, building projects that teach me something new each time.
 
@@ -33,6 +36,18 @@ I’m not an expert — but I'm improving and trying to understand how smarter s
 ---
 
 ## 🛠️ My Projects
+
+
+### **STRATA Notch**
+
+Give your notch a purpose!!
+
+https://stratanotch.onrender.com
+
+<img width="788" height="375" alt="Screenshot 2026-11-18 at 5 45 39 pm" src="https://github.com/user-attachments/assets/e428d71c-c683-48c9-a755-9f9f03a79b16" />
+
+
+
 
 ### **🌐 Lag Test 2026**
 A simple performance test made to see how many parts Roblox can handle.
