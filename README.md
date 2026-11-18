@@ -8,7 +8,7 @@ I’m still learning website/app development, scripting, and AI systems — but 
 ---
 
 ## 👤 About Me — **Chenitha Palugaswewa**
-I created **QuantumLeap Studios .Inc** % **STRATA** 
+I created **QuantumLeap Studios .Inc** & **STRATA** 
 
 I wanted to explore:
 
